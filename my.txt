@@ -1,0 +1,5 @@
+[main] DEBUG com.java.logProperties.DemoLog4j 30/12/2014 16:40:49 – This is debug message
+[main] INFO  com.java.logProperties.DemoLog4j 30/12/2014 16:40:49 – This is info message
+[main] WARN  com.java.logProperties.DemoLog4j 30/12/2014 16:40:49 – This is warn message
+[main] FATAL com.java.logProperties.DemoLog4j 30/12/2014 16:40:49 – This is fatal message
+[main] ERROR com.java.logProperties.DemoLog4j 30/12/2014 16:40:49 – This is error message
